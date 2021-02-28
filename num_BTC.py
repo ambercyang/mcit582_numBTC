@@ -30,8 +30,6 @@ def num_BTC(b):
 # In[ ]:
 
 
-num_BTC(500000000000)
-
 
 # In[ ]:
 
